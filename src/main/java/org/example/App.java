@@ -1,16 +1,11 @@
 package org.example;
 
-import org.patterns.factoryMethod.Interviewer;
-import org.patterns.simpleFactory.Door;
-import org.patterns.simpleFactory.DoorFactory;
 
-import java.lang.reflect.MalformedParameterizedTypeException;
+
+
 import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+
 
 import static org.example.DinnerTable.count;
 
